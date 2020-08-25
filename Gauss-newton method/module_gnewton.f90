@@ -1,3 +1,6 @@
+! Operacoes de Algebra Linear. Ferramentas necessarias para o processo de inversao.
+! Autora: JULIANA DA SILVA FURTADO - Brasil, Para
+
 MODULE gauss_newton_method
 implicit none
 save
