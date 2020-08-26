@@ -1,5 +1,0 @@
-Você vai perceber que existem duas pastas para os arquivos do método de Levenberg-Marquardt: "Levenberg-marquardt_a" e "Levenberg-marquardt_b"
-A diferença entre estas duas versões reside no fato de, em uma delas, haver um vetor denominado "lambda_unscaled", 
-que é utilizado no processo iterativo. Entretanto, ambas as versões estão corretas.
-
-Quando eu escrevi estes códigos, durante a graduação, eu não possuía conhecimento das facilidades do controle de versões fornecido pelo Git.
