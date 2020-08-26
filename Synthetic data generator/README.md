@@ -5,7 +5,7 @@ Trata-se de um problema direto para modelar uma anomalia geológica esférica na
 Os dados que são gerados aqui, foram utilizados para testar os métodos de inversão não-linear 
 Levenberg-Marquardt, Máximo Declive e Gauss-Newton.
 
-Na pasta "Parametros para modelagem" há arquivos c.dat com diferentes valores de raio e profundidade
+Na pasta "Parametros para modelagem" há arquivos .dat com diferentes valores de raio e profundidade
 para gerar diferentes anomalias gravimétricas. Basta trazer estes arquivos para o diretório
 principal "Synthetic data generator" e inserir o nome desses arquivos na linha de código:
 
