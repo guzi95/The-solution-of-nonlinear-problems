@@ -89,7 +89,7 @@ do
         write(7,*) c(i)
     end do    
 !-----------------------------------------------------------------    
-    ! Merit function. soma do quadrado dos resíduos.
+    ! Merit function. Soma do quadrado dos residuos.
     s= (sum(c**2))/(n-2)
     write(12,*) s   
     
@@ -134,7 +134,7 @@ do
     
 end do
 
-! Write out x final values.
+! Escreve os valores de x no arquivo final_x.dat.
 write(6,*) '# valores estimados da profundidade(z) e do raio(a), em quilômetros (km), respectivamente:', (x(i), i= 1, t)
 write(13,*) it
 close(6)
