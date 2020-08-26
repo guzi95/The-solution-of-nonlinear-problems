@@ -13,5 +13,5 @@ principal "Synthetic data generator" e inserir o nome desses arquivos na linha d
  
  , no lugar de "parametros_a.dat"
 
-Na pasta "Dados gerados" estão os valores de anomolias gravimétricas geradas por estes testes.
+Na pasta "Dados gerados" estão os valores de anomalias gravimétricas geradas por estes testes.
 
